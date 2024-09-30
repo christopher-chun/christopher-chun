@@ -1,9 +1,15 @@
 <h1 align="center">Hi, I'm Christopher</h1>
-<h3 align="center">A passionate computer science student at Brandeis University</h3>
+<h3 align="center">A passionate computer science student at Brandeis University. I enjoy creating applications that relate to my interests or hobbies and am always trying to learn new technologies and expand my skillset to create new applications with more efficiency. Currently, I am learning and gaining more experience with making applications using HTML, CSS and JavaScript. I am also currently interested in gaining more experience with APIs and Databases. </h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning: **Data Structures and Algorithms**
 
-- 📫 How to reach me **christopherchun@brandeis.edu**
+- 📄 Courses I have previously taken: **Python, Java, Discrete Structures**
+
+- 🔭 My Previous Project: **Snake Game**
+
+- 👨‍💻 Future Project Ideas: **Using the Spotify API, Creating a Discord bot with a database**
+
+- 📫 How to reach me: **christopherchun@brandeis.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
