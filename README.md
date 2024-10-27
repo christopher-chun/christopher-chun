@@ -37,6 +37,7 @@
   <a href="https://docs.github.com/en/get-started/getting-started-with-git" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.gitkraken.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/1Rc.svg" alt="gitkraken" width="40" height="40"/> </a>
   <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">IDEs:</h3>
