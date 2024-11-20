@@ -5,7 +5,7 @@
 
 - 📄 Courses I have previously taken: **Python Development, Advanced Programming Techniques in Java, Discrete Structures**
 
-- 🔭 My Previous Project: **Pokémon TCG Card Market**
+- 🔭 My Previous Project: **Pokémon TCG Market**
 
 - 👨‍💻 Future Project Ideas: **Using the Spotify API, Creating a Discord bot with a database**
 
